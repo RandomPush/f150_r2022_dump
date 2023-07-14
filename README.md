@@ -1,0 +1,14 @@
+# R2022_EEA-user 11 RP1A.200720.011 1650514639 release-keys
+- manufacturer: ant dao technology limited
+- platform: mt6785
+- codename: R2022
+- flavor: R2022_EEA-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 1650514639
+- tags: release-keys
+- fingerprint: F150/R2022_EEA/R2022:11/RP1A.200720.011/1650514639:user/release-keys
+- is_ab: false
+- brand: F150
+- branch: R2022_EEA-user-11-RP1A.200720.011-1650514639-release-keys
+- repo: f150_r2022_dump
